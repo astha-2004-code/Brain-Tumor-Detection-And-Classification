@@ -123,9 +123,6 @@ How to Run
 Clone the repository:
 
 
-git clone https://github.com/your-username/brain-tumor-detection.git
-
-
 Install dependencies:
 
 
